@@ -1,11 +1,11 @@
 import-order
 ==============
 
-.. image:: https://pypip.in/wheel/import_order/badge.svg
+.. image:: https://img.shields.io/pypi/wheel/import_order.svg
     :target: https://pypi.python.org/pypi/import_order/
     :alt: Wheel Status
 
-.. image:: https://pypip.in/py_versions/import_order/badge.svg
+.. image:: https://img.shields.io/pypi/pyversions/import_order.svg
    :target: https://pypi.python.org/pypi/import_order/
    :alt: Supported Python versions
 
